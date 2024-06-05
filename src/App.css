@@ -1,0 +1,36 @@
+.App{
+  background-color: aqua;
+  width: 100%;
+  height: 100vh;
+  padding-top: 10px;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.logo_contendor{
+  width: 100%;
+  height: 50px;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo{
+  height: 40px;
+}
+.contenedor_calculadora{
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: lightblue;
+  border-radius: 20px;
+  border: 5px solid white;
+}
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
